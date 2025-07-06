@@ -1,7 +1,14 @@
 # VaultCraft – Secure Password Manager on AWS EC2
 
+![Status](https://img.shields.io/badge/Deployed-Live-success?style=flat-square&color=brightgreen)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=flat-square)
+![SSL](https://img.shields.io/badge/HTTPS-Enabled-brightgreen?style=flat-square)
+
+![VaultCraft Screenshot](screenshots/vaultcraft-ui.png) 
+
 ## Overview
-VaultCraft is a self-hosted password manager deployed on AWS EC2 using Docker, NGINX, and automated HTTPS with Let’s Encrypt Certbot. Demonstrates key DevOps skills including containerization, reverse proxy, SSL, and dynamic DNS.
+VaultCraft is a self-hosted password manager deployed on AWS EC2 using Docker, NGINX, and automated HTTPS with Let’s Encrypt Certbot...
+
 
 ## Tech Stack
 - Docker & Docker Compose  
